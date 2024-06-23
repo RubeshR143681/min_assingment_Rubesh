@@ -21,17 +21,17 @@ const productCardDatas = [
   {
     id: "1",
     imageurl: cardimage,
-    name: "Venkat prabhu",
+    name: "auto boomb",
   },
   {
     id: "1",
     imageurl: cardimage,
-    name: "Vimal Ghosh",
+    name: "lakshmi gun",
   },
   {
     id: "1",
     imageurl: cardimage,
-    name: "Arbas Khan",
+    name: "Rockets",
   },
 ];
 
