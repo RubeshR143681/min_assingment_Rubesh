@@ -1,0 +1,22 @@
+.bg-image {
+  background-image: url("../images/widthimg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 527px;
+}
+@media (max-width: 768px) {
+  .bg-image {
+    background-position: center top; /* Adjust position for smaller screens */
+    height: 427px;
+  }
+}
+
+/* Example for mobile devices */
+@media (max-width: 480px) {
+  .bg-image {
+    background-position: center top; /* Further adjust position for mobile screens */
+    height: 380px;
+  }
+}
